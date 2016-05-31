@@ -1,0 +1,3 @@
+per, lav et program hvor du optager forskellige klavertoner og sæt en tone til hver tast på et keyboard, derefter skal der være et tekstfelt i prgrammet hvor du kan skrive sætninger og derefter afspille. prgammet skal aflæse hvilke bogstaver der er indtastet og afspille de korrisponderende toner. så vil dine sætninger blive spillet som et stykke musik.
+
+jeg skal ikke bruge det, jeg sad bare og tænkte 'hvordan bliver jeg god til at spille klaver hurtigt?' hvis jeg kunne tænke melodier som sætninger ville de være lettere at huske, så hvis jeg lærer fx at "junglen er fuld af smukke dyr" er melodien til kim larsen - jutlandia, så vil jeg kunne lære den hurtigere på klaver (hvis altså jeg kan gå ind og se hvilke bogstaver der hører til de enkelte klavertoner)
